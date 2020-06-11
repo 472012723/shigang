@@ -1,18 +1,18 @@
 //
-//  ddemoUITests.m
-//  ddemoUITests
+//  sgObjUITests.m
+//  sgObjUITests
 //
-//  Created by 王达达 on 2020/6/11.
-//  Copyright © 2020 王达达. All rights reserved.
+//  Created by wdd on 2020/6/11.
+//  Copyright © 2020 wdd. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface ddemoUITests : XCTestCase
+@interface sgObjUITests : XCTestCase
 
 @end
 
-@implementation ddemoUITests
+@implementation sgObjUITests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.

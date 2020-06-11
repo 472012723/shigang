@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  ddemo
+//  sgObj
 //
-//  Created by 王达达 on 2020/6/11.
-//  Copyright © 2020 王达达. All rights reserved.
+//  Created by wdd on 2020/6/11.
+//  Copyright © 2020 wdd. All rights reserved.
 //
 
 #import "ViewController.h"
